@@ -165,7 +165,7 @@ const e = {
   toast: $("toast"),
 };
 const PRIZE_IMAGES = {
-  "TELEVISI LED 43Inch": "./assets/hadiah/televisi.png",
+  "TELEVISI LED 43 Inch": "./assets/hadiah/televisi.png",
   "MESIN CUCI": "./assets/hadiah/mesin-cuci.png",
   "RICE COOKER": "./assets/hadiah/magiccom.png",
   "KIPAS ANGIN": "./assets/hadiah/kipas-angin.png",
@@ -183,7 +183,7 @@ function getPrizeImage(name) {
 }
 function renderPrizeOptions() {
   const defaults = [
-    "TELEVISI LED 43Inch",
+    "TELEVISI LED 43 Inch",
     "MESIN CUCI",
     "RICE COOKER",
     "KIPAS ANGIN",
